@@ -1,0 +1,2 @@
+# bootstrap-daterangepicker
+bootstrap-daterangepicker是基于bootstrap的一个双日历插件，用于选择日期范围，因原插件不符合项目的实际情况，因此在不影响原插件的使用下，对插件进行部分修改及功能拓展。下面说明一下更改和拓展的部分
